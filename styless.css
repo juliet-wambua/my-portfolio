@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.top{
+    background-image: url(http://www.wallpaperstalk.com/wp-content/uploads/2019/01/aipI1sjBn.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+nav li{
+    display:inline;}
+
+.nav{
+    float: left;
+}
+  
+nav ul li a{
+    text-decoration:none;
+    padding:18px;
+    text-transform:uppercase;
+    color:whitesmoke;}
+    
+nav>ul>li>a:hover{
+    box-shadow:0 0 10px;
+    background-color:green;
+  }
+
+.middle{
+    background-image:url(https://lizzparkk.files.wordpress.com/2015/02/giphy-3.gif?w=565&h=416);
+    background-size: cover;  
+}
+.juliet{
+    font-family: 'Montaga', serif;
+    font-size: 1.2em;
+    margin-left: 2px;
+    padding-bottom: 0px;
+    text-align: center;
+    
+}
+#topic{
+    font-family:font-family: 'Muli', sans-serif; 
+    font-size: 1.3em;
+}
+#h3{
+    font-family:font-family: 'Roboto Mono', monospace; 
+    font-size: 1em;
+}
+#p{
+    font-family: 'Anton', sans-serif;
+}
+.h3{
+ font-family: 'Montaga', serif;
+    font-size: 1.2rem; 
+    padding-bottom: 40px;
+}
+#boutme{
+    font-family: 'Source Serif Pro', serif;
+    font-size: 2em;
+    padding: 8px;
+}
+.aim{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.5em;
+}
+#about{
+    font-family: 'Amatic SC', cursive;
+    font-size: 3em;
+}
+.project{
+    font-family: 'Merriweather', serif;
+}
+
+    
