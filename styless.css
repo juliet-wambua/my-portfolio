@@ -1,14 +1,13 @@
-body{
+body{background-image: url(https://boygeniusreport.files.wordpress.com/2015/03/android-robot-sign.jpg?quality=98&strip=all);
     background-color: black;
     color: whitesmoke;
     text-align: center;
-}
-
-.top{
-    background-image: url(http://www.wallpaperstalk.com/wp-content/uploads/2019/01/aipI1sjBn.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
+
+
 
 nav li{
     display:inline;}
@@ -29,14 +28,12 @@ nav>ul>li>a:hover{
   }
 
 .middle{
-    background-image:url(https://lizzparkk.files.wordpress.com/2015/02/giphy-3.gif?w=565&h=416);
     background-size: cover;  
 }
 .juliet{
     font-family: 'Montaga', serif;
     font-size: 1.2em;
     margin-left: 2px;
-    padding-bottom: 0px;
     text-align: center;
     
 }
@@ -65,12 +62,16 @@ nav>ul>li>a:hover{
     font-family: 'Nunito Sans', sans-serif;
     font-size: 1.5em;
 }
-#about{
+#contact{
+    background-color: rgb(51, 49, 49);
     font-family: 'Amatic SC', cursive;
     font-size: 3em;
 }
 .project{
     font-family: 'Merriweather', serif;
 }
-
-    
+.about{background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4zvM_9Ujxil0uk4nr/4k-child-playing-tablet-glasses-school-girl-using-laptop-in-night-black-screen_ryafn6oex_thumbnail-full01.png);
+    font-family: 'Roboto Mono', monospace; 
+    padding:50px;
+    font-size:1.2em;
+}

@@ -1,41 +1,34 @@
-Author:Juliet Wambua
+# Portfolio
 
-Date:24th May 2019
+## Description
+A portfolio with information about me and my projects so far at Morina school.
+## Setup/Installation Requirements
+* Git clone link
+* cd Portfolio
+* Open index.html from a browser
+## Technologies Used
+* HTML
+* CSS
 
-My Portfolio
-This a webpage where you get to see and know more abbout me. See some of the projects I have been able to accomplish.
+## Support and contact details
+Email:julienea289@gmail.com
 
-Demo
-Here is a link to the webpage (https://github.com/juliet-wambua/)
+### License
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-BDD
-Description : This is a webpage that allows users to know the sides of a triangle it checks whether the triangle is equilateral,isoscles,scalene or not a triangle. Behavior Driven Development
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Takes User Input
-Checks input and Verify if its a triangle
-If Verification Fails, It Will Show Message Not a triangle
-Else, Run the Code And Check whether Its A Traiangle
-If all sides are equal,shows message Equilateral Traiangle
-Else if 2 sides are equal, shows message isosceles
-Else shows a message, shows message scalene
-Tech
-Technology used:
-
-HTML- HTML enhanced for web apps!
-ATOM EDITOR - text editor.
-CSS - great UI for modern web apps.
-JAVASCRIPT - evented for the backend.
-Prerequisites
-Basic git knowledge
-
-Clone from github
-On GitHub, navigate to the main page of the repository.
-Under the repository name, click Clone or download.
-In the Clone with HTTPs section, click to copy the clone URL for the repository.
-Open Terminal.
-Change the current working directory to the location where you want the cloned directory to be made.
-Type git clone, and then paste the URL you copied in Step 2.
-Press Enter. Your local clone will be created.
-Have fun!
-###License MIT
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+Copyright (c) 2019 Juliet Wambua
