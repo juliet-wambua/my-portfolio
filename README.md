@@ -1,11 +1,13 @@
 # Portfolio
 
 ## Description
-A portfolio with information about me and my projects so far at Morina school.
+A portfolio with information about me and my projects so far at Moringa school.
+
 ## Setup/Installation Requirements
 * Git clone link
 * cd Portfolio
 * Open index.html from a browser
+
 ## Technologies Used
 * HTML
 * CSS
@@ -31,4 +33,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 Copyright (c) 2019 Juliet Wambua
