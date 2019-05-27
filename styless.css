@@ -63,7 +63,6 @@ nav>ul>li>a:hover{
     font-size: 1.5em;
 }
 #contact{
-    background-color: rgb(51, 49, 49);
     font-family: 'Amatic SC', cursive;
     font-size: 3em;
 }
@@ -74,4 +73,7 @@ nav>ul>li>a:hover{
     font-family: 'Roboto Mono', monospace; 
     padding:50px;
     font-size:1.2em;
+}
+.about.p{
+    font-family:'Source Serif Pro', serif;
 }
