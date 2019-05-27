@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Description
-A portfolio with information about me and my projects so far at Moringa school.
+A portfolio with information about me, my projects so far at Moringa school and the Technologies used.
 
 ## Setup/Installation Requirements
 * Git clone link
